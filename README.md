@@ -1,4 +1,4 @@
-# Vrinda Store Dashboard
+# Vrinda_Sales_Excel_Dashboard 🏪
 
 Welcome to the Vrinda Store Dashboard repository! This dashboard provides insightful visualizations of sales data for Vrinda Store, enabling stakeholders to make informed decisions and drive business growth.
 
@@ -10,7 +10,7 @@ The Vrinda Store Dashboard aims to:
 - Analyze sales data across different dimensions such as gender, age, channel, and sales.
 - Identify key insights to optimize marketing strategies, inventory management, and customer engagement.
 
-## Key Features
+## Key Features ✨
 
 1. **Order: Age vs. Gender:** Compare the number of orders placed by gender to understand gender-based purchasing behavior.
 
@@ -22,12 +22,8 @@ The Vrinda Store Dashboard aims to:
 
 5. **Orders vs. Sales:** Explore the relationship between the number of orders placed and total sales revenue to assess the effectiveness of sales efforts and pricing strategies.
 
-## Screenshots
+## Screenshots 🌈🌈
+![Screenshot 2024-03-29 220501](https://github.com/yulianthyho/Netflix-Movies-and-TV-Shows-Dashboard/assets/154545323/7abec82c-e806-4c2b-b06f-84d940ad09a1)
 
-Google Drive :- https://drive.google.com/file/d/1y4uP-Fx7SSaBKeeGTYOFL4khwQXKe3_F/view?usp=sharing
 
-
-## Contact
-
-For questions or feedback regarding the Vrinda Store Dashboard, please contact Akash walaki at akashwalki88@gmail.com
 
